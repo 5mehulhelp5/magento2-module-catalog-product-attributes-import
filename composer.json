@@ -1,0 +1,22 @@
+{
+    "name": "aimanecouissi/module-catalog-product-attributes-import",
+    "version": "1.0.0",
+    "description": "Import product attributes from CSV file",
+    "type": "magento2-module",
+    "require": {
+        "php": "~8.3.0||~8.4.0",
+        "magento/framework": "103.0.*",
+        "magento/module-catalog": "104.0.*"
+    },
+    "license": [
+        "MIT"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "AimaneCouissi\\CatalogProductAttributesImport\\": ""
+        }
+    }
+}

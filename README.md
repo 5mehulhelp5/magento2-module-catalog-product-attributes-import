@@ -1,5 +1,7 @@
 # AimaneCouissi_CatalogProductAttributesImport
 
+[![Latest Stable Version](http://poser.pugx.org/aimanecouissi/module-catalog-product-attributes-import/v)](https://packagist.org/packages/aimanecouissi/module-catalog-product-attributes-import) [![Total Downloads](http://poser.pugx.org/aimanecouissi/module-catalog-product-attributes-import/downloads)](https://packagist.org/packages/aimanecouissi/module-catalog-product-attributes-import) [![Latest Unstable Version](http://poser.pugx.org/aimanecouissi/module-catalog-product-attributes-import/v/unstable)](https://packagist.org/packages/aimanecouissi/module-catalog-product-attributes-import) [![License](http://poser.pugx.org/aimanecouissi/module-catalog-product-attributes-import/license)](https://packagist.org/packages/aimanecouissi/module-catalog-product-attributes-import) [![PHP Version Require](http://poser.pugx.org/aimanecouissi/module-catalog-product-attributes-import/require/php)](https://packagist.org/packages/aimanecouissi/module-catalog-product-attributes-import)
+
 Import product **attributes** from a CSV file via Magento CLI, with support for **add / update / delete**, option labels per store, default values, and assignment to **attribute sets** and **groups**. Also supports bulk **deletion of attribute sets** from CSV.
 
 ## Installation
